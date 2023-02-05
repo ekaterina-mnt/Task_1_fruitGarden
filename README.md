@@ -12,6 +12,7 @@ docker-compose up-d</b><br><br>
 
 <br>
 <h1>Моя реализация:</h1>
+<p>(количество фруктов и их вес определяются рандомно при каждом новом запуске программы)</p>
 
 ![image](https://user-images.githubusercontent.com/112812361/216817082-aac74434-e5d6-4bb0-a8c0-b781c75aad11.png)
 ![image](https://user-images.githubusercontent.com/112812361/216817091-cf9a516b-96cd-43aa-a5ab-c9a72889894c.png)
