@@ -9,3 +9,8 @@ docker-compose up-d</b><br><br>
 <h2>Само задание:</h2>
 
 ![image](https://user-images.githubusercontent.com/112812361/216816581-9796fa88-4664-40f8-a6ca-ca6e0ad77d52.png)
+
+<h2>Моя реализация:</h2>
+
+![image](https://user-images.githubusercontent.com/112812361/216817082-aac74434-e5d6-4bb0-a8c0-b781c75aad11.png)
+![image](https://user-images.githubusercontent.com/112812361/216817091-cf9a516b-96cd-43aa-a5ab-c9a72889894c.png)
