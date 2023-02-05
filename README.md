@@ -1,7 +1,9 @@
 # Task_1_fruitGarden
 <p>Задание было выполнено с использованием программы Docker, для запуска необходимо только запустить контейнер:</p>
+
 <b>docker-compose build<br>
-docker-compose up-d</b><br>
+docker-compose up-d</b><br><br>
+
 И перейти: <b>http://localhost:8089/</b>
 
 <h3>Само задание:</h3>
