@@ -8,7 +8,7 @@ docker-compose up -d</b><br><br>
 
 <h1>Само задание:</h1>
 
-![image](https://user-images.githubusercontent.com/112812361/216816581-9796fa88-4664-40f8-a6ca-ca6e0ad77d52.png)
+![216816581-9796fa88-4664-40f8-a6ca-ca6e0ad77d52](https://user-images.githubusercontent.com/112812361/216950768-a1fbb01e-f56d-4a99-b2d6-eeda7550dea4.png)
 
 <br>
 <h1>Моя реализация:</h1>
